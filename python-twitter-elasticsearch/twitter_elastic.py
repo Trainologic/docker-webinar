@@ -166,7 +166,7 @@ index_body = {
                     "type": "object",
                     "properties": {
                         "hashtags": {
-                            "type": "object",
+                            "type": "nested",
                             "properties": {
                                 "text": {
                                     "type": "text",
